@@ -1,4 +1,4 @@
-/*! For license information please see main.a71e17c9.js.LICENSE.txt */
+/*! For license information please see main.7828c43e.js.LICENSE.txt */
 !(function () {
   var e = {
       694: function (e, t) {
@@ -54011,14 +54011,26 @@
           var n
         })([
           {
-            path: "/",
+            path: "/BadmintonGameScheduler",
             element: (0, XC.jsx)(ZC, {}),
             children: [
-              { path: "/", element: (0, XC.jsx)(VE, {}) },
-              { path: "/competition", element: (0, XC.jsx)(vk, {}) },
-              { path: "/club", element: (0, XC.jsx)(Vk, {}) },
-              { path: "/team", element: (0, XC.jsx)($R, {}) },
-              { path: "/schedule", element: (0, XC.jsx)(SN, {}) },
+              { path: "/BadmintonGameScheduler", element: (0, XC.jsx)(VE, {}) },
+              {
+                path: "/BadmintonGameScheduler/competition",
+                element: (0, XC.jsx)(vk, {}),
+              },
+              {
+                path: "/BadmintonGameScheduler/club",
+                element: (0, XC.jsx)(Vk, {}),
+              },
+              {
+                path: "/BadmintonGameScheduler/team",
+                element: (0, XC.jsx)($R, {}),
+              },
+              {
+                path: "/BadmintonGameScheduler/schedule",
+                element: (0, XC.jsx)(SN, {}),
+              },
             ],
           },
         ])
@@ -54038,4 +54050,4 @@
         T()
     })()
 })()
-//# sourceMappingURL=main.a71e17c9.js.map
+//# sourceMappingURL=main.7828c43e.js.map
