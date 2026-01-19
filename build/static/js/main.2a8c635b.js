@@ -1,4 +1,4 @@
-/*! For license information please see main.7828c43e.js.LICENSE.txt */
+/*! For license information please see main.2a8c635b.js.LICENSE.txt */
 !(function () {
   var e = {
       694: function (e, t) {
@@ -41463,11 +41463,23 @@
             i = a[0],
             c = a[1],
             l = [
-              { title: "\ud648", href: "/" },
-              { title: "\ub300\ud68c \uac80\uc0c9", href: "/competition" },
-              { title: "\ud074\ub7fd \uac80\uc0c9", href: "/club" },
-              { title: "\ud300 \uac80\uc0c9", href: "/team" },
-              { title: "\uc2dc\uac04\ud45c", href: "/schedule" },
+              { title: "\ud648", href: "/BadmintonGameScheduler/" },
+              {
+                title: "\ub300\ud68c \uac80\uc0c9",
+                href: "/BadmintonGameScheduler/competition",
+              },
+              {
+                title: "\ud074\ub7fd \uac80\uc0c9",
+                href: "/BadmintonGameScheduler/club",
+              },
+              {
+                title: "\ud300 \uac80\uc0c9",
+                href: "/BadmintonGameScheduler/team",
+              },
+              {
+                title: "\uc2dc\uac04\ud45c",
+                href: "/BadmintonGameScheduler/schedule",
+              },
             ],
             u = (0, e.useCallback)(
               function () {
@@ -54050,4 +54062,4 @@
         T()
     })()
 })()
-//# sourceMappingURL=main.7828c43e.js.map
+//# sourceMappingURL=main.2a8c635b.js.map
