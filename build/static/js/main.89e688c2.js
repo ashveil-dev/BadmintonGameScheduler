@@ -1,4 +1,4 @@
-/*! For license information please see main.714c9dc7.js.LICENSE.txt */
+/*! For license information please see main.89e688c2.js.LICENSE.txt */
 !(function () {
   var e = {
       694: function (e, t) {
@@ -15224,7 +15224,7 @@
             e.addCase(Er.fulfilled, function (e, t) {
               ;(e.loading = !1), (e.gameList = t.payload)
             }),
-              e.addCase(Er.pending, function (e, t) {
+              e.addCase(Er.pending, function (e) {
                 e.loading = !0
               })
           },
@@ -43339,16 +43339,14 @@
       function Mk() {
         var t,
           n = WE(),
-          r =
-            (oi(),
-            UE(function (e) {
-              return {
-                currentPage: e.club.currentPage,
-                competition: e.competition.competition,
-                clubTable: e.club.clubTable,
-                searchedClubNameArray: e.club.searchedClubNameArray,
-              }
-            })),
+          r = UE(function (e) {
+            return {
+              currentPage: e.club.currentPage,
+              competition: e.competition.competition,
+              clubTable: e.club.clubTable,
+              searchedClubNameArray: e.club.searchedClubNameArray,
+            }
+          }),
           o = r.currentPage,
           a = r.competition,
           i = r.clubTable,
@@ -43511,16 +43509,12 @@
           n = Hn((0, e.useState)(""), 2),
           r = n[0],
           o = n[1],
-          a =
-            (UE(function (e) {
-              return { query: e.team.query }
-            }).query,
-            (0, e.useCallback)(
-              function (e) {
-                o(e.target.value)
-              },
-              [o]
-            )),
+          a = (0, e.useCallback)(
+            function (e) {
+              o(e.target.value)
+            },
+            [o]
+          ),
           i = (0, e.useCallback)(
             function (e) {
               null === e || void 0 === e || e.preventDefault(), t(qr(r))
@@ -54044,4 +54038,4 @@
         T()
     })()
 })()
-//# sourceMappingURL=main.714c9dc7.js.map
+//# sourceMappingURL=main.89e688c2.js.map
