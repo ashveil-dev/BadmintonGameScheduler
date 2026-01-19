@@ -8,27 +8,27 @@ import SchedulePage from "page/schedule"
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/BadmintonGameScheduler",
     element: <Layout />,
     children: [
       {
-        path: "/",
+        path: "/BadmintonGameScheduler",
         element: <HomePage />,
       },
       {
-        path: "/competition",
+        path: "/BadmintonGameScheduler/competition",
         element: <CompetitionPage />,
       },
       {
-        path: "/club",
+        path: "/BadmintonGameScheduler/club",
         element: <ClubPage />,
       },
       {
-        path: "/team",
+        path: "/BadmintonGameScheduler/team",
         element: <TeamPage />,
       },
       {
-        path: "/schedule",
+        path: "/BadmintonGameScheduler/schedule",
         element: <SchedulePage />,
       },
     ],
