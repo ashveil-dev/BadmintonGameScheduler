@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.3921bba5.css",
-    "main.js": "/static/js/main.89e688c2.js",
-    "static/js/787.db33642e.chunk.js": "/static/js/787.db33642e.chunk.js",
-    "index.html": "/index.html",
-    "main.3921bba5.css.map": "/static/css/main.3921bba5.css.map",
-    "main.89e688c2.js.map": "/static/js/main.89e688c2.js.map",
-    "787.db33642e.chunk.js.map": "/static/js/787.db33642e.chunk.js.map"
+    "main.css": "/BadmintonGameScheduler/static/css/main.3921bba5.css",
+    "main.js": "/BadmintonGameScheduler/static/js/main.a71e17c9.js",
+    "static/js/787.db33642e.chunk.js": "/BadmintonGameScheduler/static/js/787.db33642e.chunk.js",
+    "index.html": "/BadmintonGameScheduler/index.html",
+    "main.3921bba5.css.map": "/BadmintonGameScheduler/static/css/main.3921bba5.css.map",
+    "main.a71e17c9.js.map": "/BadmintonGameScheduler/static/js/main.a71e17c9.js.map",
+    "787.db33642e.chunk.js.map": "/BadmintonGameScheduler/static/js/787.db33642e.chunk.js.map"
   },
-  "entrypoints": ["static/css/main.3921bba5.css", "static/js/main.89e688c2.js"]
+  "entrypoints": ["static/css/main.3921bba5.css", "static/js/main.a71e17c9.js"]
 }
