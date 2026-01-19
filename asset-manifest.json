@@ -1,15 +1,12 @@
 {
   "files": {
     "main.css": "/BadmintonGameScheduler/static/css/main.3921bba5.css",
-    "main.js": "/BadmintonGameScheduler/static/js/main.a71e17c9.js",
+    "main.js": "/BadmintonGameScheduler/static/js/main.7828c43e.js",
     "static/js/787.db33642e.chunk.js": "/BadmintonGameScheduler/static/js/787.db33642e.chunk.js",
     "index.html": "/BadmintonGameScheduler/index.html",
     "main.3921bba5.css.map": "/BadmintonGameScheduler/static/css/main.3921bba5.css.map",
-    "main.a71e17c9.js.map": "/BadmintonGameScheduler/static/js/main.a71e17c9.js.map",
+    "main.7828c43e.js.map": "/BadmintonGameScheduler/static/js/main.7828c43e.js.map",
     "787.db33642e.chunk.js.map": "/BadmintonGameScheduler/static/js/787.db33642e.chunk.js.map"
   },
-  "entrypoints": [
-    "static/css/main.3921bba5.css",
-    "static/js/main.a71e17c9.js"
-  ]
+  "entrypoints": ["static/css/main.3921bba5.css", "static/js/main.7828c43e.js"]
 }
