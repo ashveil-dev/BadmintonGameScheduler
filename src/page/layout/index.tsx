@@ -24,23 +24,23 @@ function LayoutPage(): JSX.Element {
   const items = [
     {
       title: "홈",
-      href: "/",
+      href: "/BadmintonGameScheduler/",
     },
     {
       title: "대회 검색",
-      href: "/competition",
+      href: "/BadmintonGameScheduler/competition",
     },
     {
       title: "클럽 검색",
-      href: "/club",
+      href: "/BadmintonGameScheduler/club",
     },
     {
       title: "팀 검색",
-      href: "/team",
+      href: "/BadmintonGameScheduler/team",
     },
     {
       title: "시간표",
-      href: "/schedule",
+      href: "/BadmintonGameScheduler/schedule",
     },
   ]
 
